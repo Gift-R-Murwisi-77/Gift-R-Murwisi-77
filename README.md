@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently in my learning phase...
-- 💻 Always chasing the extremes of reality
-- 🔭 Stuck between reality and imagination⚡
+- 💻 I am passionate about finding real life solutions to real life problems using software.
 - 🏀😎 Basketball and code is life....
 - 😉 Open for help..
 
